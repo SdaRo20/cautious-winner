@@ -57,5 +57,4 @@ If you'd like changes, open an issue or ask here. I can help tidy up the downloa
 
 This README was added automatically; for further edits tell me what sections to expand or what commands to include.
 
----
-Generated and committed by an automated assistant.
+
